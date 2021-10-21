@@ -1,4 +1,5 @@
 Authlib
+SpeechRecognition
 googlesearch-python==1.0.1
 yahoo-fin==0.8.9.1
 yfinance==0.1.63
