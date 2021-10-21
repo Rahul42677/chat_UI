@@ -183,8 +183,8 @@ def response(text):
 oauth = OAuth(app)
 
 app.config['SECRET_KEY'] = "THIS SHOULD BE SECRET"
-app.config['GOOGLE_CLIENT_ID'] = "1267533541-obm9ai0uutvvj0gm2b8hisdjsc44rveh.apps.googleusercontent.com"
-app.config['GOOGLE_CLIENT_SECRET'] = "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"
+app.config['GOOGLE_CLIENT_ID'] = "1267533541-o0b1sq2o892j2kte7si9elj7ag0jld2m.apps.googleusercontent.com"
+app.config['GOOGLE_CLIENT_SECRET'] = "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"
 app.config['GITHUB_CLIENT_ID'] = "Iv1.76ba40f72005d09f"
 app.config['GITHUB_CLIENT_SECRET'] = "4b5635d54e1f2c30aa6152187d1edec69e730131"
 
