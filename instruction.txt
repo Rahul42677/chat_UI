@@ -1,0 +1,44 @@
+#library installation
+
+pip install COVID19Py
+pip install pygame
+pip install billboard.py
+
+
+pip install flask-wtf
+pip install tensorflow
+
+pip install keras
+pip install flask
+
+pip install yfinance
+pip install transformers
+pip install yahoo-fin
+
+
+# to activate the virtual environment
+chatbot\Scripts\activate
+
+#nltk library
+nltk.download("punkt")
+nltk.download("wordnet")
+
+
+'''
+def chatbot():
+    print(" Inside chatbot function")
+    print(" request.method ",request.method)
+    if request.method == 'POST':
+        message = request.form.get('message')
+        print("x",x)
+        #userText = request.args.get('userText')
+        file1 = open("MyFile.txt","a")
+        file1.writelines("Me:  "+x+ "\n")
+        resp=response(x)
+        file1.writelines("Bot:  "+resp+"\n")
+    
+    return  jsonify({"resp": resp})
+
+'''
+#What are machine learning models based on?
+# applications of machine learning are

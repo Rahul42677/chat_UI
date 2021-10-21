@@ -1,0 +1,451 @@
+Me:  hey
+Bot:  Hello
+Me:  tell me a joke
+Bot:  o what if I don't know what 'Armageddon' means? It's not the end of the world.
+Me:  covid 19: usa
+Bot:  Confirmed Cases:0.0 Deaths:0.0
+Me:  What are machine learning models based on
+Bot:  I am Ted, a Deep-Learning chatbot
+Me:  What are machine learning models based on
+Me:  What are machine learning models based on
+Bot:  sample data
+Me:  What is Machine Learning a branch of
+Bot:  Machine learning
+Me:  what are the applications of machine learning
+Bot:  email filtering and computer vision
+Me:  help
+Bot:  ML) is the study of computer algorithms that improve automatically through experience
+Me:  hey how are you
+Bot:  email filtering and computer vision
+Me:  covid19
+Bot:  Machine learning
+Me:  covid19 "india" 
+Bot:  1. US Open: Emma Raducanu Scripts History, Beats Leylah Fernandez To Win Women's Singles Title | Tennis News - NDTVSports.comhttps://sports.ndtv.com/tennis/us-open-emma-raducanu-scripts-history-beats-leylah-fernandez-to-win-womens-singles-title-2537941
+2. Vijay Rupani quitting as CM of Gujarat part of BJP’s image ‘makeover’ - Times of Indiahttps://timesofindia.indiatimes.com/india/vijay-rupani-quitting-as-cm-of-gujarat-part-of-bjps-image-makeover/articleshow/86127258.cms
+3. Shocked and disturbed Vishal Aditya Singh REVEALS he met Sidharth Shukla 2-3 days before his untimely demise; - Bollywood Lifehttps://www.bollywoodlife.com/tv/shocked-and-disturbed-vishal-aditya-singh-reveals-he-met-sidharth-shukla-2-3-days-before-his-untimely-demise-their-last-conversation-will-make-you-teary-eyed-1911911/
+4. Ole Gunnar Solskjaer reveals Cristiano Ronaldo's Man United initiation ahead of debut - ESPN Indiahttps://www.espn.in/football/manchester-united-engman_utd/story/4472765/ole-gunnar-solskjaer-reveals-cristiano-ronaldos-man-united-initiation-ahead-of-debut
+5. Apple iPhone 12 series gets massive price cut on Flipkart: Check details here - Zee Newshttps://zeenews.india.com/technology/apple-iphone-12-series-gets-massive-price-cut-on-flipkart-check-details-here-2393174.html
+6. Booster Shots And Vaccine Mandates: The New Plan To Beat Covid-19 - CNBChttps://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bU9GNGlJWW5lWGvSAQA?oc=5
+7. Premier League: Ronaldo double sinks Newcastle on Manchester United return, City and Arsenal also win - India Todayhttps://www.indiatoday.in/sports/football/story/ronaldo-brace-helps-manchester-united-go-top-city-beat-leicester-arsenal-win-1st-game-of-season-1851829-2021-09-11
+8. Epic Games v Apple ruling: iPhone-maker wins the antitrust lawsuit, but it must allow use of alternative in-app payment methods - GSMArena.com news - GSMArena.comhttps://www.gsmarena.com/epic_games_apple_lawsuit_ruling-news-50891.php
+9. What went wrong with Ford in India and who will benefit from its exit? | Fast Track | Onmanorama - Onmanoramahttps://www.onmanorama.com/news/business/2021/09/11/ford-in-india-what-went-wrong-who-will-benefit.html
+10. The Big BJP Show: Party Eyes 4 Crore Members in UP Before Assembly Polls - News18https://www.news18.com/news/politics/the-big-bjp-show-party-eyes-4-crore-members-in-up-before-assembly-polls-4193078.html
+Me:  hey
+Bot:  Hello
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you. Try asking me for jokes or riddles! 
+ 2. Ask me the date and time 
+ 3. I can google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+ 6. I can get you the top 10 trending songs globally. Type 'songs' 
+ 7. I can set a timer for you. Enter 'set a timer: minutes to timer' 
+ 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! 
+Me:  hey
+Bot:  Hello
+Me:  What are machine learning models based on?
+Bot:  I am Ted, a Deep-Learning chatbot
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you. Try asking me for jokes or riddles! 
+ 2. Ask me the date and time 
+ 3. I can google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+ 6. I can get you the top 10 trending songs globally. Type 'songs' 
+ 7. I can set a timer for you. Enter 'set a timer: minutes to timer' 
+ 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! 
+Me:  hey
+Bot:  Hello
+Me:  What are machine learning models based on?
+Bot:  Please give me more info
+Me:  hey
+Bot:  Machine learning
+Me:  hey
+Bot:  Good to see you again
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you. Try asking me for jokes or riddles! 
+ 2. Ask me the date and time 
+ 3. I can google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+ 6. I can get you the top 10 trending songs globally. Type 'songs' 
+ 7. I can set a timer for you. Enter 'set a timer: minutes to timer' 
+ 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! 
+Me:  para: What are machine learning models based on?
+Bot:  Not sure I understand
+Me:  hey
+Bot:  Good to see you again
+Me:  para: What are machine learning models based on?
+Bot:  Sorry, can't understand you
+Me:  What are machine learning models based on?
+Bot:  Not sure I understand
+Me:  hey
+Bot:  Machine learning
+Me:  What are machine learning models based on
+Bot:  sample data
+Me:  hey
+Me:  hey
+Bot:  Hello
+Me:  What are machine learning models based on
+Bot:  Not sure I understand
+Me:  hey
+Bot:  Hi there, how can I help?
+Me:  What are machine learning models based on
+Bot:  Not sure I understand
+Me:  hey
+Bot:  Good to see you again
+Me:  What are machine learning models based on
+Bot:  sample data
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you. Try asking me for jokes or riddles! 
+ 2. Ask me the date and time 
+ 3. I can google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+ 6. I can get you the top 10 trending songs globally. Type 'songs' 
+ 7. I can set a timer for you. Enter 'set a timer: minutes to timer' 
+ 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! 
+Me:  covid19: india
+Bot:  1. After Vijay Rupani Shock Exit, Key BJP Meet Today To Discuss Successor - NDTVhttps://www.ndtv.com/india-news/day-after-vijay-rupani-exit-top-bjp-leaders-meet-in-gujarat-2538069
+2. Boys more likely to be hospitalised with rare side-effect of Pfizer vaccine than covid itself, claims US study - The Indian Expresshttps://indianexpress.com/article/world/boys-more-likely-to-be-hospitalised-with-rare-side-effect-of-pfizer-vaccine-than-covid-itself-claims-us-study-7503769/
+3. FBI Memo Hints At Saudi Arabia's Involvement With 9/11 Attack Hijackers - NDTVhttps://www.ndtv.com/world-news/fbi-memo-hints-at-saudi-arabias-involvement-with-9-11-attack-hijackers-2538091
+4. Coronavirus: Can you get severe breakthrough infections after vaccination? Here's what we know - Times of Indiahttps://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-can-you-get-severe-breakthrough-infections-after-vaccinations-heres-what-we-know/photostory/86116301.cms
+5. Study finds why people with diabetes develop severe Covid-19 - Business Standardhttps://www.business-standard.com/article/current-affairs/study-finds-why-people-with-diabetes-develop-severe-covid-19-121091200162_1.html
+6. Amrullah Saleh: The last man standing in Afghanistan - The Indian Expresshttps://indianexpress.com/article/india/amrullah-saleh-afghanistan-crisis-taliban-takeover-7503410/
+7. India vs England: ECB has written to ICC on outcome of cancelled fifth Test against India, says spokesper - Times of Indiahttps://timesofindia.indiatimes.com/sports/cricket/india-in-england/india-vs-england-ecb-has-written-to-icc-on-outcome-of-cancelled-fifth-test-against-india-says-spokesperson/articleshow/86133976.cms
+8. Ben Affleck pushes away fan trying to click pic with Jennifer Lopez. Watch video - Hindustan Timeshttps://www.hindustantimes.com/entertainment/hollywood/ben-affleck-pushes-away-fan-trying-to-click-pic-with-jennifer-lopez-watch-video-101631421200716.html
+9. Solar Storm And Internet Apocalypse: Massive Internet Outage, Offline Networks Warned - Gizbothttps://www.gizbot.com/news/solar-storm-and-internet-apocalypse-massive-internet-outage-offline-networks-warned-076708.html
+10. Covid Death Certificate Rules Out After Supreme Court's "3rd Wave" Rebuke - NDTVhttps://www.ndtv.com/india-news/guidelines-issued-for-official-document-for-covid-deaths-centre-to-top-court-2538000
+Me:  hey
+Bot:  Hello
+Me:  covid19: india
+Bot:  1. After Vijay Rupani Shock Exit, Key BJP Meet Today To Discuss Successor - NDTVhttps://www.ndtv.com/india-news/day-after-vijay-rupani-exit-top-bjp-leaders-meet-in-gujarat-2538069
+2. Boys more likely to be hospitalised with rare side-effect of Pfizer vaccine than covid itself, claims US study - The Indian Expresshttps://indianexpress.com/article/world/boys-more-likely-to-be-hospitalised-with-rare-side-effect-of-pfizer-vaccine-than-covid-itself-claims-us-study-7503769/
+3. FBI Memo Hints At Saudi Arabia's Involvement With 9/11 Attack Hijackers - NDTVhttps://www.ndtv.com/world-news/fbi-memo-hints-at-saudi-arabias-involvement-with-9-11-attack-hijackers-2538091
+4. Coronavirus: Can you get severe breakthrough infections after vaccination? Here's what we know - Times of Indiahttps://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-can-you-get-severe-breakthrough-infections-after-vaccinations-heres-what-we-know/photostory/86116301.cms
+5. Study finds why people with diabetes develop severe Covid-19 - Business Standardhttps://www.business-standard.com/article/current-affairs/study-finds-why-people-with-diabetes-develop-severe-covid-19-121091200162_1.html
+6. Amrullah Saleh: The last man standing in Afghanistan - The Indian Expresshttps://indianexpress.com/article/india/amrullah-saleh-afghanistan-crisis-taliban-takeover-7503410/
+7. India vs England: ECB has written to ICC on outcome of cancelled fifth Test against India, says spokesper - Times of Indiahttps://timesofindia.indiatimes.com/sports/cricket/india-in-england/india-vs-england-ecb-has-written-to-icc-on-outcome-of-cancelled-fifth-test-against-india-says-spokesperson/articleshow/86133976.cms
+8. Ben Affleck pushes away fan trying to click pic with Jennifer Lopez. Watch video - Hindustan Timeshttps://www.hindustantimes.com/entertainment/hollywood/ben-affleck-pushes-away-fan-trying-to-click-pic-with-jennifer-lopez-watch-video-101631421200716.html
+9. Solar Storm And Internet Apocalypse: Massive Internet Outage, Offline Networks Warned - Gizbothttps://www.gizbot.com/news/solar-storm-and-internet-apocalypse-massive-internet-outage-offline-networks-warned-076708.html
+10. Covid Death Certificate Rules Out After Supreme Court's "3rd Wave" Rebuke - NDTVhttps://www.ndtv.com/india-news/guidelines-issued-for-official-document-for-covid-deaths-centre-to-top-court-2538000
+Me:  date and time
+Bot:  Monday 13 September 2021 04:57:42
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you. Try asking me for jokes or riddles! 
+ 2. Ask me the date and time 
+ 3. I can google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+ 6. I can get you the top 10 trending songs globally. Type 'songs' 
+ 7. I can set a timer for you. Enter 'set a timer: minutes to timer' 
+ 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! 
+Me:  covid 19:india
+Bot:  Confirmed Cases:33236921 Deaths:442655
+Me:  songs
+Bot:  ...
+Me:  hey
+Bot:  Good to see you again
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you. Try asking me for jokes or riddles! 
+ 2. Ask me the date and time 
+ 3. I can google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+ 6. I can get you the top 10 trending songs globally. Type 'songs' 
+ 7. I can set a timer for you. Enter 'set a timer: minutes to timer' 
+ 8. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ For suggestions to help me improve, send an email to ted.thedlbot.suggestions@gmail.com . Thank you!! 
+Me:  hey, how are you
+Bot:  email filtering and computer vision
+Me:  hey
+Bot:  Hi there, how can I help?
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+
+Me:  Latest news
+Bot:  1. After Vijay Rupani Shock Exit, Key BJP Meet Today To Discuss Successor - NDTVhttps://www.ndtv.com/india-news/day-after-vijay-rupani-exit-top-bjp-leaders-meet-in-gujarat-2538069
+2. Boys more likely to be hospitalised with rare side-effect of Pfizer vaccine than covid itself, claims US study - The Indian Expresshttps://indianexpress.com/article/world/boys-more-likely-to-be-hospitalised-with-rare-side-effect-of-pfizer-vaccine-than-covid-itself-claims-us-study-7503769/
+3. FBI Memo Hints At Saudi Arabia's Involvement With 9/11 Attack Hijackers - NDTVhttps://www.ndtv.com/world-news/fbi-memo-hints-at-saudi-arabias-involvement-with-9-11-attack-hijackers-2538091
+4. Coronavirus: Can you get severe breakthrough infections after vaccination? Here's what we know - Times of Indiahttps://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-can-you-get-severe-breakthrough-infections-after-vaccinations-heres-what-we-know/photostory/86116301.cms
+5. Study finds why people with diabetes develop severe Covid-19 - Business Standardhttps://www.business-standard.com/article/current-affairs/study-finds-why-people-with-diabetes-develop-severe-covid-19-121091200162_1.html
+6. Amrullah Saleh: The last man standing in Afghanistan - The Indian Expresshttps://indianexpress.com/article/india/amrullah-saleh-afghanistan-crisis-taliban-takeover-7503410/
+7. India vs England: ECB has written to ICC on outcome of cancelled fifth Test against India, says spokesper - Times of Indiahttps://timesofindia.indiatimes.com/sports/cricket/india-in-england/india-vs-england-ecb-has-written-to-icc-on-outcome-of-cancelled-fifth-test-against-india-says-spokesperson/articleshow/86133976.cms
+8. Ben Affleck pushes away fan trying to click pic with Jennifer Lopez. Watch video - Hindustan Timeshttps://www.hindustantimes.com/entertainment/hollywood/ben-affleck-pushes-away-fan-trying-to-click-pic-with-jennifer-lopez-watch-video-101631421200716.html
+9. Solar Storm And Internet Apocalypse: Massive Internet Outage, Offline Networks Warned - Gizbothttps://www.gizbot.com/news/solar-storm-and-internet-apocalypse-massive-internet-outage-offline-networks-warned-076708.html
+10. Covid Death Certificate Rules Out After Supreme Court's "3rd Wave" Rebuke - NDTVhttps://www.ndtv.com/india-news/guidelines-issued-for-official-document-for-covid-deaths-centre-to-top-court-2538000
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+
+Me:  weather: Lucknow
+Bot:  Present temp.:34.14C. Feels like:41.14C. Haze
+Me:  hey
+Bot:  Hello
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+
+Me:  stock_info: aapl
+Bot:  The current price of {stock} is 148.97000122070312
+Me:  price of stock: msft
+Bot:  The current price of {stock} is 295.7099914550781
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+
+Me:  hey
+Bot:  Hello
+Me:  price of stock: aapl
+Bot:  The current price of {stock}aaplis 148.97
+Me:  hey
+Bot:  Hello
+Me:  price of stock: aapl
+Bot:  The current price is 148.97
+Me:  price of stock: tcs
+Bot:  The current price is 11.13
+Me:  price of stock: reliance
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ 7. I can get the price of stock. Use stock_info: aapl or price of stock: aapl 
+
+Me:  price of stock: tsla
+Bot:  The current price is 736.27
+Me:  hey
+Bot:  Good to see you again
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ 7. I can get the price of stock. Use stock_info: aapl or price of stock: aapl 
+
+Me:  date and time
+Bot:  Monday 13 September 2021 09:16:42
+Me:  stock_info: msft
+Bot:  The current price is 295.71
+Me:  what are the applications of machine learning
+Bot:  Monday 13 September 2021 09:18:11
+Me:  applications of machine learning
+Me:  weather: lucknow
+Bot:  Present temp.:33.14C. Feels like:40.14C. Haze
+Me:  hey
+Bot:  Hello
+Me:  applications of machine learning
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ 7. I can get the price of stock. Use stock_info: aapl or price of stock: aapl 
+
+Me:  hey
+Bot:  Good to see you again
+Me:  What is Machine Learning a branch of
+Bot:  Machine learning
+Me:  applications of machine learning
+Me:  hey
+Bot:  Hi there, how can I help?
+Me:  what are the applications of machine learning
+Bot:  email filtering and computer vision
+Me:  "hi"
+Bot:  Hello
+Me:  "hi"
+Bot:  Hi there, how can I help?
+Me:  "hi"
+Bot:  Good to see you again
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Hello
+Me:  Hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  Ayaz
+Bot:  Sorry, can't understand you
+Me:  Rahul
+Bot:  Please give me more info
+Me:  Rahul
+Bot:  Please give me more info
+Me:  Rahul
+Bot:  Not sure I understand
+Me:  Ayaz
+Bot:  Not sure I understand
+Me:  a@gmail.com
+Bot:  Machine learning
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Good to see you again
+Me:  hi
+Bot:  Hello
+Me:  hey
+Bot:  Hi there, how can I help?
+Me:  what is your name
+Bot:  training data
+Me:  hay
+Bot:  Sorry, can't understand you
+Me:  hey
+Bot:  Hi there, how can I help?
+Me:  hello 
+Bot:  Machine learning
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ 7. I can get the price of stock. Use stock_info: aapl or price of stock: aapl 
+
+Me:  stock: aapl
+Bot:  The current price is 142.81
+Me:  hello
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Good to see you again
+Me:  help
+Bot:  I am a general purpose chatbot. My capabilities are : 
+ 1. I can chat with you.  
+ 2. Ask me the date and time 
+ 3. I can do google search for you. Use format google: your query 
+ 4. I can get the present weather for any city. Use format weather: city name 
+ 5. I can get you the top 10 trending news in India. Use keywords 'Latest News' 
+  6. I can get the present Covid stats for any country. Use 'covid 19: world' or 'covid 19: country name' 
+ 7. I can get the price of stock. Use stock_info: aapl or price of stock: aapl 
+
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hello 
+Bot:  Machine learning
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  hi
+Bot:  Hello
+Me:  what is market order
+Me:  hi
+Bot:  Hello
+Me:  what is market order
+Me:  hi
+Bot:  Hello
+Me:  what is market order
+Me:  hi
+Bot:  Good to see you again
+Me:  what is market order
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  what is market order
+Bot:  an order to buy or sell a stock at the
+best available price
+Me:  hi
+Bot:  Hello
+Me:  what is market order
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  what is market order
+Me:  hi
+Bot:  Good to see you again
+Me:  what is market order
+Me:  hi
+Bot:  Hello
+Me:  what is market order
+Me:  hi
+Bot:  Hello
+Me:  what is market order
+Bot:  an order to buy or sell a stock at the best available price
+Me:  hi
+Bot:  Hi there, how can I help?
+Me:  what is market order
+Bot:  Stop-limit Order
+A stop-limit order
+Me:  hi
+Bot:  Good to see you again
+Me:  what is market order
+Bot:  Stop-limit Order
+A stop-limit order
+Me:  types of order
+Bot:  self-confidence
+Me:  hi
+Bot:  Hello
+Me:  hi
+Bot:  Hi there, how can I help?
