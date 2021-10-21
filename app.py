@@ -10,7 +10,6 @@ from keras.models import Sequential,load_model
 import random
 from datetime import datetime
 import pytz
-from alpha_vantage.timeseries import TimeSeries 
 import requests
 import os
 import billboard
